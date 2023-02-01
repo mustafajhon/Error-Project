@@ -24,7 +24,7 @@ function Project() {
           type="text"
         />
         <button onClick={GetName} className="form-btn">
-          Get your Name
+          Get your Name on console.
         </button>
       </div>
     </main>
